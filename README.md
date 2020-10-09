@@ -1,6 +1,7 @@
 # githakambui.github.io
 
-[githakambui.github.io]
-[githakambui.github.io]: https://www.githakambui.github.io
+
+[githakambui.github.io]: https://githakambui.github.io 
+https://githakambui.github.io/
 
 *A landing page inspired by Windows XP with links to my blog, portfolio and SM accounts*
